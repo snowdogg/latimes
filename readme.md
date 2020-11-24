@@ -1,7 +1,6 @@
 # LA Times Paywall Destroyer
 
-´´´bash
+
+```bash
 node scrape.js '<url of article goes here>'
-```
-
-
+``` 
