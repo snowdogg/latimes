@@ -2,5 +2,9 @@
 
 
 ```bash
-node scrape.js '<url of article goes here>'
+node app.js
 ``` 
+
+Navigate to localhost:3000
+Paste LA Times article URL into textbox
+Submit to read article
