@@ -1,4 +1,7 @@
+DISCLAIMER: Do Not Use This Tool. Buy an LA Times subscription. 
+
 # LA Times Paywall Destroyer
+
 
 ```bash
 docker run -it -p 80:3000 snowdogg/latimes
